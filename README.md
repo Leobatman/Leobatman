@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=836FFF&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Pereira+Pinheiro;I'm+18+years+old;I+am+from+Brasil,+SP;I+study+analysis+and+systems+development+at+Alura;I+study+server+training+and+cybersecurity+at+SenacBrasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leobatman&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=DC143C&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leobatman&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leobatman&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=DC143C&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leobatman&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" color=836FFF src="https://profile-counter.glitch.me/{Leobatman}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Leobatman}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00FA9A&height=120&section=footer"/>
