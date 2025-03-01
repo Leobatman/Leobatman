@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00FA9A&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Pereira+Pinheiro;I'm+18+years+old;I+am+from+Brasil,+SP;I+study+analysis+and+systems+development+at+Alura;I+study+server+training+and+cybersecurity+at+SenacBrasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -40,4 +40,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Leobatman}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00FA9A&height=120&section=footer"/>
