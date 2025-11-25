@@ -1,4 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00FA9A&height=120&section=header"/>
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWo3eWZwa2t0cjh5MmI3cG41N3pqdXhjZGo1Yjc3NjdudmkxMnNzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pylNZOmEWUMwGXdzQj/giphy.gif"  />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&color=836FFF&width=500&lines=CYBERSECURITY+☠💻🔑🛡" alt="Typing SVG" />
+</h1>
+
+<h3 align="left">
+  🌐 Hello World <br><br>
+ Nice to meet you, my name is Leonardo Pereira, I'm 18 years old and I'm currently studying for a Technical Degree in Cybersecurity and pursuing a degree in Computer Engineering. I'm starting my career in the technology field with a focus on cybersecurity, networks, and digital defense. I have a strong interest in penetration testing, digital forensics, vulnerability analysis, and offensive security (Red Team).
+</h3>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=836FFF&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Pereira+Pinheiro;I'm+18+years+old;I+am+from+Brasil,+SP;I+am+a+Computer+Enginnering+student;I+study+server+training+and+cybersecurity;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
