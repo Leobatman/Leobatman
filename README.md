@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00FA9A&height=120&section=header"/>
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWo3eWZwa2t0cjh5MmI3cG41N3pqdXhjZGo1Yjc3NjdudmkxMnNzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pylNZOmEWUMwGXdzQj/giphy.gif"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJ0aG5ocjdxcWRqNTZ6MXc0YzZnZXYwZzYwdzN0bW85NTAxemo5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eUtR2Fc4lLpJcEyqe/giphy.gif"  />
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&color=836FFF&width=500&lines=CYBERSECURITY+☠💻🔑🛡" alt="Typing SVG" />
 </h1>
