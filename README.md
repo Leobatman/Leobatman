@@ -58,5 +58,6 @@
   <img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/wireshark-icon.png" height="60" alt="wireshark logo"  />
   <img width="12" />
 </div>
+<img src="https://tryhackme-badges.s3.amazonaws.com/leonardopereirapinheiro3.png" alt="Seu crachá de imagem" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00FA9A&height=120&section=footer"/>
