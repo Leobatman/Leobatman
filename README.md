@@ -43,7 +43,7 @@
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/870px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" height="60" alt="Windows logo"  />
+  <img src="https://static.vecteezy.com/system/resources/previews/060/301/927/non_2x/white-square-with-a-windows-logo-on-it-free-png.png" height="60" alt="Windows logo" />
   <img width="12" />
   <img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/08/metasploit-framework-logo.svg.png" height="60" alt="Meta logo"  />
   <img width="12" />
