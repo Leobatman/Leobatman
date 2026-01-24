@@ -1,61 +1,132 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00FA9A&height=120&section=header"/>
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJ0aG5ocjdxcWRqNTZ6MXc0YzZnZXYwZzYwdzN0bW85NTAxemo5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eUtR2Fc4lLpJcEyqe/giphy.gif"  />
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&color=836FFF&width=500&lines=CYBERSECURITY+☠💻🔑🛡" alt="Typing SVG" />
-</h1>
-
-<h3 align="left">
-  🌐 Hello World <br><br>
- Nice to meet you, my name is Leonardo Pereira, I'm 18 years old and I'm currently studying for a Technical Degree in Cybersecurity and pursuing a degree in Computer Engineering. I'm starting my career in the technology field with a focus on cybersecurity, networks, and digital defense. I have a strong interest in penetration testing, digital forensics, vulnerability analysis, and offensive security (Red Team).
-</h3>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=836FFF&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Pereira+Pinheiro;I'm+18+years+old;I+am+from+Brasil,+SP;I+am+a+Computer+Enginnering+student;I+study+server+training+and+cybersecurity;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leobatman&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-### Tools:
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" height="60" alt="Kali logo"  />
-  <img width="12" />
-    <img src="https://cdn.awsli.com.br/600x700/19/19974/produto/237770104/redhat_logo-vtyiiwk3ni.png" height="60" alt="Red Hat logo"  />
-  <img width="12" />
-  <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" height="60" alt="Arch linux logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/600/nmap.png" height="60" alt="Nmap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://seginfo.com.br/wp-content/uploads/2011/06/xhydra1.png" height="60" alt="hydra logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://static.vecteezy.com/system/resources/previews/060/301/927/non_2x/white-square-with-a-windows-logo-on-it-free-png.png" height="60" alt="Windows logo" />
-  <img width="12" />
-  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/08/metasploit-framework-logo.svg.png" height="60" alt="Meta logo"  />
-  <img width="12" />
-  <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" height="60" alt="sqlmap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://images.ctfassets.net/3091ajzcmzlr/7er8DWHKODxRy3Z30hfn4d/028d1009ad736a511fc870d4a5a47f5c/_Users_andrewhill_Projects_blog.1password.com_content_posts_2012_1password-is-ready-for-john-the-ripper_johntheripper.png" height="60" alt="john logo"  />
-  <img width="12" />
-  <img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/wireshark-icon.png" height="60" alt="wireshark logo"  />
-  <img width="12" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Cyber+Ghost&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=40" width="100%" />
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE5b2YwZngxOG95djBvdmVmOGhwZzdianByb3V4ajV2YmdlNmgwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6NiX9zeko5Le8/giphy.gif" width="75%">
+ 
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=%5B%2B%5D+RED+TEAM+OPERATOR+ONLINE;%5B%2B%5D+INITIATING+PENETRATION+TEST;%5B%2B%5D+EXPLOITATION+FRAMEWORK+ACTIVE;%5B%2B%5D+SYSTEM+BREACH+SIMULATION+RUNNING" alt="Typing SVG" />
+  
+  <br><br>
+  
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODg5NHlsdDlwaGMzeWdlaTJwNWxia3did2E1OG83NHdzMzlybHA0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U77IPoKMZUpzymdNZh/giphy.gif" width="50%">
+  
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00FA9A&height=120&section=footer"/>
+
+---
+
+## 🔥 Threat Profile
+
+> **Status:** ACTIVE | **Clearance:** CLASSIFIED | **Affiliation:** RED TEAM
+> 
+> **Current Operation:** B.S. Computer Engineering @ São Judas University
+> **Specialization:** Offensive Security, DFIR, Network Penetration Testing
+> **Mission:** Identify security gaps, exploit vulnerabilities, and strengthen digital defenses through ethical hacking methodologies.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TACTIC-RED_TEAM-FF0000?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-ENGAGED-FF0000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-KALI_LINUX-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/THREAT_LEVEL-HIGH-FF0000?style=for-the-badge" />
+</div>
+
+---
+
+## 🎯 Validated Credentials (Certifications)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Analista_SOC_IBSEC-FF0000?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Essentials_LPI-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Junior_Cyber_Analyst_Cisco-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISC2_Security_Principles-FF0000?style=for-the-badge&logo=isc2&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/CANDIDATE:Security+-FF0000?style=flat-square&logo=compTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/CANDIDATE:PenTest+-FF0000?style=flat-square&logo=compTIA&logoColor=white" />
+</div>
+
+---
+
+## ⚔️ Offensive Security Arsenal
+
+<div align="center">
+  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTloMDVldTk0eDZxaHg4OW9uYXlyMGhhOTBkbDZpcGQ5OXhvYXU4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGF4DVYSeS5oIx2/giphy.gif" width="250" align="right">
+
+</div>
+
+### 🔴 Exploitation & Penetration Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/Metasploit-FF0000?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF0000?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLmap-000000?style=flat-square&logo=sqlmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-FF0000?style=flat-square&logo=hydra&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-FF0000?style=flat-square&logo=nmap&logoColor=white" />
+</p>
+
+### 🔴 Forensics & Incident Response
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/John_The_Ripper-FF0000?style=flat-square&logo=john-the-ripper&logoColor=white" />
+  <img src="https://img.shields.io/badge/Volatility-FF0000?style=flat-square&logo=volatility&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autopsy-000000?style=flat-square" />
+</p>
+
+### 🔴 Infrastructure & Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Active_Directory-FF0000?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLAN-FF0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firewalls-FF0000?style=flat-square" />
+</p>
+
+---
+
+## 💻 Technical Skills Matrix
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,bash,linux,windows,docker,azure,gcp,git,js,html,css,powershell,regex,vim" />
+</div>
+
+<br>
+
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leobatman&bg_color=000000&color=FF0000&line=FF4444&point=FFFFFF&area=true&hide_border=true&custom_title=OPERATIONAL+ACTIVITY+FED)
+  
+</div>
+
+---
+
+## 📊 Threat Intelligence Dashboard
+
+| **Category** | **Tools & Technologies** | **Proficiency** |
+|-------------|-------------------------|-----------------|
+| **Reconnaissance** | Nmap, Shodan, Maltego, theHarvester | 🔴🔴🔴🔴⚪ |
+| **Vulnerability Assessment** | Nessus, OpenVAS, Nikto | 🔴🔴🔴⚪⚪ |
+| **Exploitation** | Metasploit, Burp Suite, SQLmap | 🔴🔴🔴🔴⚪ |
+| **Post-Exploitation** | Mimikatz, PowerShell Empire, Cobalt Strike | 🔴🔴🔴⚪⚪ |
+| **Forensics** | Wireshark, Autopsy, FTK Imager, Volatility | 🔴🔴🔴🔴⚪ |
+| **Scripting** | Python, Bash, PowerShell | 🔴🔴🔴🔴⚪ |
+
+---
+
+## 🚀 Current Operations & Objectives
+
+- **🎯 Active Mission:** Developing advanced penetration testing labs and exploit development research
+- **📚 Research Focus:** Active Directory attack vectors, privilege escalation techniques, and APT simulations
+- **🔬 Testing Environment:** Home lab with multiple VLANs, vulnerable VMs, and honeypots
+- **🎓 Academic Focus:** Computer Engineering with emphasis on cybersecurity and network architecture
+
+---
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer&reversal=true" width="100%" />
+  
+  <img src="https://komarev.com/ghpvc/?username=Leobatman&color=FF0000&style=flat-square" />
+  
+  <p><em>"In cybersecurity, the only way to defend is to think like an attacker."</em></p>
+  
+</div>
