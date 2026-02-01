@@ -144,49 +144,18 @@
 
 ---
 
-<br>
-
-<!-- Timeline de Projetos -->
-## 📅 **OPERATION TIMELINE**
-
-```mermaid
-gantt
-    title Cyber Security Operations Timeline
-    dateFormat  YYYY-MM
-    axisFormat  %b %Y
-    
-    section Certifications
-    Linux Essentials       :done, cert1, 2023-01, 2M
-    SOC Analyst            :done, cert2, 2023-03, 2M
-    Cisco Junior           :done, cert3, 2023-06, 2M
-    ISC2 CC                :done, cert4, 2023-09, 1M
-    Security+              :active, cert5, 2024-01, 3M
-    PenTest+               :cert6, 2024-04, 4M
-    
-    section Projects
-    Home Lab Setup         :done, proj1, 2023-02, 4M
-    AD PenTest Lab         :active, proj2, 2023-10, 6M
-    Exploit Development    :proj3, 2024-03, 5M
-    CTF Team Participation :proj4, 2024-05, 3M
-```
-
----
-
 ## 🌐 **CONNECT WITH OPERATIONS**
 
 <div align="center">
   
   <!-- Badges de Contato -->
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-pereira-pinheiro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com/p/" target="_blank">
+  <a href="https://tryhackme.com/p/leonardopereirapinheiro3" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
-  <a href="https://www.hackthebox.com/profile/" target="_blank">
+  <a href="https://app.hackthebox.com/users/2929177" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
   
