@@ -34,17 +34,43 @@
 
 ---
 
-## 🎯 Validated Credentials (Certifications)
+## 🎓 **VALIDATED CREDENTIALS**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Analista_SOC_IBSEC-FF0000?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Essentials_LPI-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Junior_Cyber_Analyst_Cisco-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/ISC2_Security_Principles-FF0000?style=for-the-badge&logo=isc2&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/CANDIDATE:Security+-FF0000?style=flat-square&logo=compTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/CANDIDATE:PenTest+-FF0000?style=flat-square&logo=compTIA&logoColor=white" />
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Analista_SOC_IBSEC-FF0000?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+        <br><small>Cybersecurity Operations</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/LPI_Linux_Essentials-000000?style=for-the-badge&logo=linux&logoColor=white" />
+        <br><small>Linux Fundamentals</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Cisco_Junior_Cyber-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+        <br><small>Network Security</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/ISC2_CC-FF0000?style=for-the-badge&logo=isc2&logoColor=white" />
+        <br><small>Security Principles</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+        <br><small>In Progress</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CompTIA_PenTest+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+        <br><small>In Progress</small>
+      </td>
+    </tr>
+  </table>
+
 </div>
+
 
 ---
 
@@ -82,7 +108,6 @@
 </p>
 
 ---
-
 ## 💻 Technical Skills Matrix
 
 <div align="center">
@@ -91,10 +116,17 @@
 
 <br>
 
+## 📊 **OPERATIONAL METRICS**
+
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leobatman&bg_color=000000&color=FF0000&line=FF4444&point=FFFFFF&area=true&hide_border=true&custom_title=OPERATIONAL+ACTIVITY+FED)
   
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Leobatman&theme=dark&background=000000&border=FF0000&stroke=FF0000&dates=FFFFFF&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
+  
+  <!-- Activity Graph -->
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leobatman&bg_color=000000&color=FF0000&line=FF4444&point=FFFFFF&area=true&hide_border=true&custom_title=OPERATIONAL+ACTIVITY+FEED&radius=8)
+
 </div>
 
 ---
@@ -111,6 +143,57 @@
 | **Scripting** | Python, Bash, PowerShell | 🔴🔴🔴🔴⚪ |
 
 ---
+
+<br>
+
+<!-- Timeline de Projetos -->
+## 📅 **OPERATION TIMELINE**
+
+```mermaid
+gantt
+    title Cyber Security Operations Timeline
+    dateFormat  YYYY-MM
+    axisFormat  %b %Y
+    
+    section Certifications
+    Linux Essentials       :done, cert1, 2023-01, 2M
+    SOC Analyst            :done, cert2, 2023-03, 2M
+    Cisco Junior           :done, cert3, 2023-06, 2M
+    ISC2 CC                :done, cert4, 2023-09, 1M
+    Security+              :active, cert5, 2024-01, 3M
+    PenTest+               :cert6, 2024-04, 4M
+    
+    section Projects
+    Home Lab Setup         :done, proj1, 2023-02, 4M
+    AD PenTest Lab         :active, proj2, 2023-10, 6M
+    Exploit Development    :proj3, 2024-03, 5M
+    CTF Team Participation :proj4, 2024-05, 3M
+```
+
+---
+
+## 🌐 **CONNECT WITH OPERATIONS**
+
+<div align="center">
+  
+  <!-- Badges de Contato -->
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="https://www.hackthebox.com/profile/" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  </a>
+  
+  <br><br>
+  
+</div>
+
 
 ## 🚀 Current Operations & Objectives
 
@@ -130,3 +213,6 @@
   <p><em>"In cybersecurity, the only way to defend is to think like an attacker."</em></p>
   
 </div>
+
+
+
