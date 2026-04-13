@@ -147,7 +147,7 @@
   <a href="https://www.linkedin.com/in/leonardo-pereira-pinheiro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://tryhackme.com/p/leonardopereirapinheiro3" target="_blank">
+  <a href="https://tryhackme.com/p/Cyberghost7" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
   <a href="https://app.hackthebox.com/users/2929177" target="_blank">
