@@ -81,6 +81,16 @@
 
 ---
 
+## ⚔️ Security Operations Stack
+
+<div align="center">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTloMDVldTk0eDZxaHg4OW9uYXlyMGhhOTBkbDZpcGQ5OXhvYXU4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGF4DVYSeS5oIx2/giphy.gif" width="250">
+
+</div>
+
+---
+
 # 💻 Technical Skills Matrix
 
 <div align="center">
@@ -89,7 +99,7 @@
 
 </div>
 
-<br>
+---
 
 # 🛡 Cybersecurity & Infrastructure Stack
 
@@ -183,19 +193,6 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leobatman&bg_color=000000&color=FF0000&line=FF4444&point=FFFFFF&area=true&hide_border=true&custom_title=SECURITY+ACTIVITY+FEED&radius=8)
 
 </div>
-
----
-
-# 📊 Threat Intelligence Dashboard
-
-| Category | Technologies | Experience |
-|----------|--------------|------------|
-| Reconnaissance | Nmap, Maltego, theHarvester | 🔴🔴🔴🔴⚪ |
-| Vulnerability Assessment | Nessus, OpenVAS, Nikto | 🔴🔴🔴⚪⚪ |
-| Offensive Security | Metasploit, Burp Suite, SQLmap | 🔴🔴🔴🔴⚪ |
-| Blue Team | Wazuh, Snort, SIEM | 🔴🔴🔴⚪⚪ |
-| DFIR | Wireshark, Volatility, Autopsy | 🔴🔴🔴🔴⚪ |
-| Automation | Python, Bash, PowerShell | 🔴🔴🔴🔴⚪ |
 
 ---
 
