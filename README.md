@@ -1,182 +1,242 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Cyber+Ghost&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=40" width="100%" />
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE5b2YwZngxOG95djBvdmVmOGhwZzdianByb3V4ajV2YmdlNmgwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6NiX9zeko5Le8/giphy.gif" width="75%">
- 
-  
-  <br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=%5B%2B%5D+RED+TEAM+OPERATOR+ONLINE;%5B%2B%5D+INITIATING+PENETRATION+TEST;%5B%2B%5D+EXPLOITATION+FRAMEWORK+ACTIVE;%5B%2B%5D+SYSTEM+BREACH+SIMULATION+RUNNING" alt="Typing SVG" />
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Cyber+Ghost&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=40" width="100%" />
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE5b2YwZngxOG95djBvdmVmOGhwZzdianByb3V4ajV2YmdlNmgwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6NiX9zeko5Le8/giphy.gif" width="75%">
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=%5B%2B%5D+CYBERSECURITY+ENGINEERING;%5B%2B%5D+OFFENSIVE+%26+DEFENSIVE+SECURITY;%5B%2B%5D+DFIR+%E2%80%A2+SOC+%E2%80%A2+PENTEST;%5B%2B%5D+SECURITY+RESEARCH+%26+AUTOMATION" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🔥 Threat Profile
+# 🔥 Professional Profile
 
-> **Status:** ACTIVE | **Clearance:** CLASSIFIED | **Affiliation:** RED TEAM
-> 
-> **Current Operation:** B.S. Computer Engineering @ São Judas University
-> **Specialization:** Offensive Security, DFIR, Network Penetration Testing
-> **Mission:** Identify security gaps, exploit vulnerabilities, and strengthen digital defenses through ethical hacking methodologies.
+> **Status:** Active  
+> **Focus Areas:** Cybersecurity, DFIR, Pentest & Security Operations  
+>
+> **Current Role:** Computer Engineering Student @ São Judas University  
+> **Specialization:** Offensive Security, Digital Forensics & Network Security  
+> **Objective:** Building practical cybersecurity solutions through ethical hacking, automation, hardening, and security analysis.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TACTIC-RED_TEAM-FF0000?style=for-the-badge&logo=redhat&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-ENGAGED-FF0000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-KALI_LINUX-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/THREAT_LEVEL-HIGH-FF0000?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/CYBERSECURITY-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/SOC-000000?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+<img src="https://img.shields.io/badge/PENTEST-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
+
 </div>
 
 ---
 
-## 🎓 **VALIDATED CREDENTIALS**
+# 🎓 Certifications & Training
 
 <div align="center">
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Analista_SOC_IBSEC-FF0000?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-        <br><small>Cybersecurity Operations</small>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/LPI_Linux_Essentials-000000?style=for-the-badge&logo=linux&logoColor=white" />
-        <br><small>Linux Fundamentals</small>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Cisco_Junior_Cyber-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
-        <br><small>Network Security</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/ISC2_CC-FF0000?style=for-the-badge&logo=isc2&logoColor=white" />
-        <br><small>Security Principles</small>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
-        <br><small>In Progress</small>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/CompTIA_PenTest+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
-        <br><small>In Progress</small>
-      </td>
-    </tr>
-  </table>
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Cisco-CyberOps_Associate-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+<br><small>Security Operations</small>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-FF0000?style=for-the-badge&logo=cisco&logoColor=white" />
+<br><small>Offensive Security</small>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/IBSEC-Analista_SOC-FF0000?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+<br><small>Threat Monitoring</small>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://img.shields.io/badge/RedHat-Ansible-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+<br><small>Automation</small>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/RedHat-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<br><small>Containers</small>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/ISC2-Security_Principles-468145?style=for-the-badge&logo=isc2&logoColor=white" />
+<br><small>Security Foundations</small>
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
-
 ---
 
-## ⚔️ Offensive Security Arsenal
+# 💻 Technical Skills Matrix
 
 <div align="center">
-  
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTloMDVldTk0eDZxaHg4OW9uYXlyMGhhOTBkbDZpcGQ5OXhvYXU4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGF4DVYSeS5oIx2/giphy.gif" width="250" align="right">
 
-</div>
+<img src="https://skillicons.dev/icons?i=linux,windows,py,bash,powershell,docker,kubernetes,ansible,azure,gcp,mysql,git,github,vscode,vim,html,css,js" />
 
-### 🔴 Exploitation & Penetration Testing
-<p align="left">
-  <img src="https://img.shields.io/badge/Metasploit-FF0000?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF0000?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLmap-000000?style=flat-square&logo=sqlmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hydra-FF0000?style=flat-square&logo=hydra&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-FF0000?style=flat-square&logo=nmap&logoColor=white" />
-</p>
-
-### 🔴 Forensics & Incident Response
-<p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/John_The_Ripper-FF0000?style=flat-square&logo=john-the-ripper&logoColor=white" />
-  <img src="https://img.shields.io/badge/Volatility-FF0000?style=flat-square&logo=volatility&logoColor=white" />
-  <img src="https://img.shields.io/badge/Autopsy-000000?style=flat-square" />
-</p>
-
-### 🔴 Infrastructure & Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Active_Directory-FF0000?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VLAN-FF0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Firewalls-FF0000?style=flat-square" />
-</p>
-
----
-## 💻 Technical Skills Matrix
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,bash,linux,windows,docker,azure,gcp,git,js,html,css,powershell,regex,vim" />
 </div>
 
 <br>
 
-## 📊 **OPERATIONAL METRICS**
+# 🛡 Cybersecurity & Infrastructure Stack
 
 <div align="center">
-  
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Leobatman&theme=dark&background=000000&border=FF0000&stroke=FF0000&dates=FFFFFF&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
-  
-  <!-- Activity Graph -->
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leobatman&bg_color=000000&color=FF0000&line=FF4444&point=FFFFFF&area=true&hide_border=true&custom_title=OPERATIONAL+ACTIVITY+FEED&radius=8)
+
+<img src="https://img.shields.io/badge/Cisco-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux_Hardening-111111?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/SIEM-990000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SOC-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DFIR-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pentest-FF0000?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 📊 Threat Intelligence Dashboard
+# ⚔️ Offensive Security Tools
 
-| **Category** | **Tools & Technologies** | **Proficiency** |
-|-------------|-------------------------|-----------------|
-| **Reconnaissance** | Nmap, Shodan, Maltego, theHarvester | 🔴🔴🔴🔴⚪ |
-| **Vulnerability Assessment** | Nessus, OpenVAS, Nikto | 🔴🔴🔴⚪⚪ |
-| **Exploitation** | Metasploit, Burp Suite, SQLmap | 🔴🔴🔴🔴⚪ |
-| **Post-Exploitation** | Mimikatz, PowerShell Empire, Cobalt Strike | 🔴🔴🔴⚪⚪ |
-| **Forensics** | Wireshark, Autopsy, FTK Imager, Volatility | 🔴🔴🔴🔴⚪ |
-| **Scripting** | Python, Bash, PowerShell | 🔴🔴🔴🔴⚪ |
+<div align="center">
+
+<img src="https://img.shields.io/badge/Nmap-FF0000?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-003366?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLmap-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenVAS-228B22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🌐 **CONNECT WITH OPERATIONS**
+# 🔵 Blue Team & DFIR Tools
 
 <div align="center">
-  
-  <!-- Badges de Contato -->
-  <a href="https://www.linkedin.com/in/leonardo-pereira-pinheiro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com/p/Cyberghost7" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="https://app.hackthebox.com/users/2929177" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  </a>
-  
-  <br><br>
-  
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Volatility-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Autopsy-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FTK_Imager-444444?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Threat_Intelligence-660000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Incident_Response-990000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Malware_Analysis-330000?style=for-the-badge" />
+
 </div>
 
+---
 
-## 🚀 Current Operations & Objectives
+# 🏗 Infrastructure & Networking
 
-- **🎯 Active Mission:** Developing advanced penetration testing labs and exploit development research
-- **📚 Research Focus:** Active Directory attack vectors, privilege escalation techniques, and APT simulations
-- **🔬 Testing Environment:** Home lab with multiple VLANs, vulnerable VMs, and honeypots
-- **🎓 Academic Focus:** Computer Engineering with emphasis on cybersecurity and network architecture
+<div align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/VLAN-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Firewall-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud_Security-003366?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Network_Security-990000?style=for-the-badge" />
+
+</div>
+
+---
+
+# 🚀 Featured Areas
+
+- 🔐 Linux Hardening & Security
+- 🛡 SOC Operations & Threat Monitoring
+- 🌐 Network Security & VLAN Segmentation
+- 🔎 DFIR & Log Analysis
+- ⚡ Bash & Python Automation
+- 🧪 Pentest Labs & Vulnerability Assessment
+- 🏗 Active Directory Security
+- ☁ Cloud & Container Security
+
+---
+
+# 📊 Operational Metrics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Leobatman&theme=dark&background=000000&border=FF0000&stroke=FF0000&dates=FFFFFF&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
+
+<br><br>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leobatman&bg_color=000000&color=FF0000&line=FF4444&point=FFFFFF&area=true&hide_border=true&custom_title=SECURITY+ACTIVITY+FEED&radius=8)
+
+</div>
+
+---
+
+# 📊 Threat Intelligence Dashboard
+
+| Category | Technologies | Experience |
+|----------|--------------|------------|
+| Reconnaissance | Nmap, Maltego, theHarvester | 🔴🔴🔴🔴⚪ |
+| Vulnerability Assessment | Nessus, OpenVAS, Nikto | 🔴🔴🔴⚪⚪ |
+| Offensive Security | Metasploit, Burp Suite, SQLmap | 🔴🔴🔴🔴⚪ |
+| Blue Team | Wazuh, Snort, SIEM | 🔴🔴🔴⚪⚪ |
+| DFIR | Wireshark, Volatility, Autopsy | 🔴🔴🔴🔴⚪ |
+| Automation | Python, Bash, PowerShell | 🔴🔴🔴🔴⚪ |
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/leonardo-pereira-pinheiro/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://tryhackme.com/p/Cyberghost7" target="_blank">
+<img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+
+<a href="https://app.hackthebox.com/users/2929177" target="_blank">
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+- Developing cybersecurity labs and automation projects
+- Studying offensive and defensive security methodologies
+- Improving DFIR and threat detection skills
+- Building secure infrastructure and monitoring environments
+- Expanding knowledge in cloud and container security
 
 ---
 
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer&reversal=true" width="100%" />
-  
-  <img src="https://komarev.com/ghpvc/?username=Leobatman&color=FF0000&style=flat-square" />
-  
-  <p><em>"In cybersecurity, the only way to defend is to think like an attacker."</em></p>
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer&reversal=true" width="100%" />
+
+<img src="https://komarev.com/ghpvc/?username=Leobatman&color=FF0000&style=flat-square" />
+
+<br><br>
+
+<i>"In cybersecurity, understanding the attack is essential to building effective defense."</i>
+
 </div>
-
-
-
