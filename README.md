@@ -92,10 +92,11 @@ $ mission_target --future
 
 <br><br>
 
-<!-- CONTRIBUTION SNAKE ANIMATION -->
+<!-- PACMAN CONTRIBUTION GRAPH ANIMATION -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leobatman/Leobatman/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leobatman/Leobatman/output/github-contribution-grid-snake.svg" width="70%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leobatman/Leobatman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leobatman/Leobatman/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Leobatman/Leobatman/output/pacman-contribution-graph.svg" width="70%">
 </picture>
 
 <br><br>
