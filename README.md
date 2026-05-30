@@ -3,25 +3,25 @@
 <!-- CAPSULE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=CYBER%20GHOST&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=40" width="100%" />
 
-<!-- CYBER SECURITY TERMINAL GIF -->
-<img src="https://media.giphy.com/media/TF7224FCEbwxR50bwF/giphy.gif" width="65%" style="border-radius: 8px; border: 2px solid #FF0000; box-shadow: 0px 0px 15px #FF0000;" />
+<!-- CYBER SECURITY TERMINAL GIF (RESIZED TO 75%) -->
+<img src="https://media.giphy.com/media/TF7224FCEbwxR50bwF/giphy.gif" width="75%" style="border-radius: 8px; border: 2px solid #FF0000; box-shadow: 0px 0px 15px #FF0000;" />
 
 <br><br>
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=%5B%2B%5D+COMPUTER+ENGINEERING+%7C+AEROSPACE+SYSTEMS+SECURITY;%5B%2B%5D+OFFENSIVE+SECURITY+%26+RED+TEAM;%5B%2B%5D+DFIR+%E2%80%A2+THREAT+HUNTING+%E2%80%A2+SOC+OPERATIONS;%5B%2B%5D+DEVSECOPS+%26+INFRASTRUCTURE+AUTOMATION" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=%5B%2B%5D+COMPUTER+ENGINEERING+%7C+CYBERSECURITY;%5B%2B%5D+OFFENSIVE+SECURITY+%26+RED+TEAM;%5B%2B%5D+DFIR+%E2%80%A2+THREAT+HUNTING+%E2%80%A2+SOC+OPERATIONS;%5B%2B%5D+LINUX+SECURITY+%26+INFRASTRUCTURE+AUTOMATION" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🛠️ MISSION CONTROL DOSSIER
+## 🔥 Professional Profile
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SECURITY_STATUS-ACTIVE_OPERATOR-red?style=for-the-badge&logo=gitbook&logoColor=white" />
-<img src="https://img.shields.io/badge/CLEARANCE_LEVEL-SECRET-000000?style=for-the-badge&logo=lockheedmartin&logoColor=white" />
-<img src="https://img.shields.io/badge/MISSION_TARGET-AEROSPACE_CYBERSECURITY-red?style=for-the-badge&logo=nasa&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE_OPERATOR-red?style=for-the-badge&logo=gitbook&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCUS-SOC_%E2%80%A2_PENTEST_%E2%80%A2_DFIR-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/TARGET-AEROSPACE_SECURITY-red?style=for-the-badge&logo=nasa&logoColor=white" />
 
 </div>
 
@@ -29,90 +29,62 @@
 $ whoami
 > Leonardo Pereira Pinheiro (a.k.a Cyber Ghost)
 > Computer Engineering Student @ São Judas University
-> Goal: Postgraduation / Second Degree in Aerospace Engineering & Space Systems Security
+> Core Focus: Security Operations (SOC), Digital Forensics (DFIR) & Ethical Hacking
 
-$ system_diagnostics --profile
-> Main Focus    : Hardening Critical Infrastructure & Securing Next-Gen Avionics/Satellites
-> Path          : Blending Offensive Expertise (Red Team) with Defensive Cyber Forensics (DFIR)
-> Philosophy    : "To safeguard orbital and ground assets, we must master the attacker's mindset."
+$ mission_target --future
+> Academic Goal: Postgraduation / Second Degree in Aerospace Engineering
+> Technical Aim : Hardening Embedded Systems & Aerospace Infrastructure
 ```
 
 ---
 
-## 💻 CERTIFICATIONS FLIGHT DECK
+## 🎓 Certifications & Training
 
 <div align="center">
 
-| Specialty / Domain | Badge | Verified Scope |
+| Domain | Certification / Badge | Scope |
 | :--- | :---: | :--- |
-| **Security Operations** | <img src="https://img.shields.io/badge/Cisco-CyberOps_Associate-00599C?style=flat-square&logo=cisco&logoColor=white" /> | Threat Monitoring, Detection & SOC Incident Response |
-| **Offensive Tactics** | <img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-FF0000?style=flat-square&logo=cisco&logoColor=white" /> | Penetration Testing, Attack Vectors & Hacking Methodologies |
-| **Defense & SOC** | <img src="https://img.shields.io/badge/IBSEC-Analista_SOC-FF0000?style=flat-square&logo=securityscorecard&logoColor=white" /> | Threat Intel, Vulnerability Analysis & Continuous Monitoring |
-| **Infrastructure Dev** | <img src="https://img.shields.io/badge/RedHat-Ansible-EE0000?style=flat-square&logo=redhat&logoColor=white" /> | Automated Configuration Management, Hardening & Orchestration |
-| **Cloud & Containers** | <img src="https://img.shields.io/badge/RedHat-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> | Container Security, Orchestration Hardening & Microservices |
-| **Fundamentals** | <img src="https://img.shields.io/badge/ISC2-Security_Principles-468145?style=flat-square&logo=isc2&logoColor=white" /> | Core Cyber Security Principles, Governance & Risk Frameworks |
+| **Security Operations** | <img src="https://img.shields.io/badge/Cisco-CyberOps_Associate-00599C?style=flat-square&logo=cisco&logoColor=white" /> | SOC Operations, Incident Response & Threat Monitoring |
+| **Offensive Tactics** | <img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-FF0000?style=flat-square&logo=cisco&logoColor=white" /> | Penetration Testing, Attack Vectors & Hacking |
+| **Defense & Monitoring** | <img src="https://img.shields.io/badge/IBSEC-Analista_SOC-FF0000?style=flat-square&logo=securityscorecard&logoColor=white" /> | Threat Intelligence, Vulnerability & SIEM Analysis |
+| **Automation** | <img src="https://img.shields.io/badge/RedHat-Ansible-EE0000?style=flat-square&logo=redhat&logoColor=white" /> | Automated Configuration Management & Hardening |
+| **Cloud & Containers** | <img src="https://img.shields.io/badge/RedHat-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> | Container Orchestration Hardening & Microservices |
+| **Security Foundations** | <img src="https://img.shields.io/badge/ISC2-Security_Principles-468145?style=flat-square&logo=isc2&logoColor=white" /> | Core Cyber Security Principles & Governance |
 
 </div>
 
 ---
 
-## ⚡ TECHNICAL SKILLS MATRIX
+## 💻 Technical Skills
 
 <div align="center">
 
-### Core Scripting & Environments
+### Tools & Environments
 <img src="https://skillicons.dev/icons?i=linux,windows,py,bash,powershell,docker,kubernetes,ansible,azure,gcp,mysql,git,github,vscode,vim,html,css,js" />
 
 <br><br>
 
-| Flight Operations | Technologies & Frameworks | Mission Scope |
+| Specialty | Tools & Technologies | Focus |
 | :--- | :--- | :--- |
-| **🔴 Red Team & Penetration Testing** | `Kali Linux` `Nmap` `Burp Suite` `Metasploit` `SQLmap` `Hydra` `OWASP Zap` | Exploit Development, Vulnerability Hacking, Web App Security, Attack Surface Mapping |
-| **🔵 Blue Team & DFIR Operations** | `Wireshark` `Wazuh` `Snort` `Volatility` `Autopsy` `FTK Imager` `SIEM` | Digital Forensics, Memory Analysis, Network Traffic Decoupling, Malware Triage, Threat Hunting |
-| **⚙️ Ground Control & Hardening** | `Docker` `Kubernetes` `Ansible` `Active Directory` `Linux Hardening` `Firewalls` | Automated Patching, VLAN Segmentation, AD Forest Hardening, Identity Access Management (IAM) |
-| **🚀 Space-Cyber R&D Stack** | `Embedded C/C++` `RTL-SDR` `GNSS Spoofing` `Zephyr RTOS` `Avionics Protocols` | CubeSat Hardening, Firmware Reverse Engineering, Signal Analysis, Real-Time Systems Integrity |
+| **🔴 Offensive Security** | `Kali Linux` `Nmap` `Burp Suite` `Metasploit` `SQLmap` `Hydra` `OWASP Zap` | Ethical Hacking, Web App Pentesting, Vulnerability Assessment |
+| **🔵 Defensive Security** | `Wireshark` `Wazuh` `Snort` `Volatility` `Autopsy` `FTK Imager` `SIEM` | Digital Forensics, Incident Response, Log Analysis, Threat Hunting |
+| **⚙️ Infrastructure & AD** | `Docker` `Kubernetes` `Ansible` `Active Directory` `Linux Hardening` `Firewalls` | Infrastructure Hardening, VLAN Segmentation, AD Security & IAM |
 
 </div>
 
 ---
 
-## 🛰️ SPACE-CYBER R&D PATHWAY (AEROSPACE ROADMAP)
+## 🛰️ Future Horizon: Aerospace Security (Self-Study & Goals)
 
-*Targeting the intersection of Computer Engineering and Space Systems to safeguard orbital communications, ground-stations, and avionics.*
+*Complementing Computer Engineering and Cibersecurity with a long-term goal of securing critical aerospace infrastructure and embedded flight systems.*
 
-```mermaid
-graph TD
-    A[Computer Engineering Foundation] --> B[Embedded Systems & RTOS Hardening]
-    A --> C[Offensive/Defensive Cyber Ops]
-    B --> D[Space-Cyber R&D]
-    C --> D
-    D --> E[Target: Aerospace Systems Security Postgrad]
-    
-    style A fill:#000,stroke:#FF0000,stroke-width:2px,color:#fff
-    style B fill:#000,stroke:#FF4444,stroke-width:1px,color:#fff
-    style C fill:#000,stroke:#FF4444,stroke-width:1px,color:#fff
-    style D fill:#FF0000,stroke:#000,stroke-width:2px,color:#fff
-    style E fill:#000,stroke:#00599C,stroke-width:3px,color:#fff
-```
-
-### 🎯 Research & Self-Study Milestones
-* **📡 RF & Satellite Telemetry Hacking:** Analyzing satellite signal downlinks, decoding amateur radio packets, and exploring GNU Radio with **RTL-SDR**.
-* **🛰️ Avionics & Embedded Protocols:** Reverse-engineering and securing communication interfaces like **CAN Bus**, **ARINC 429**, and **MIL-STD-1553**.
-* **🌀 Real-Time OS (RTOS) Hardening:** Exploring micro-kernel security configurations under **Zephyr** and **FreeRTOS** for aerospace microcontrollers.
-* **🔒 Space-Grade Communication Security:** Researching quantum-resistant lightweight cryptography for satellite ground-station uplinks.
+* **📡 Software-Defined Radio (SDR):** Exploring RF communications, decoding telemetry, and signal auditing using **RTL-SDR**.
+* **🔒 Embedded & Firmware Security:** Researching reverse engineering of firmware and security methodologies for low-power microcontrollers.
+* **🛰️ Cubesats & Space Infrastructure:** Studying vulnerabilities in satellite ground stations and space-grade communication networks.
 
 ---
 
-## 🚀 FEATURED OPERATIONAL LABS
-
-- **🔐 Linux Hardening & Audit:** Implementing CIS Benchmarks and custom Ansible playbooks to harden production Linux servers.
-- **🌐 Network Security Lab:** Designing robust VLAN structures, PFSense rules, and intrusion detection alerts with Wazuh & Snort.
-- **🏗 Active Directory Attack & Defend:** Deploying home labs mimicking enterprise networks to test Kerberoasting, Bloodhound path analysis, and AD GPO hardening.
-- **🔎 Incident Response Playbooks:** Writing custom Python scripts to parse volatility memory dumps and dissect malicious PCAP artifacts.
-
----
-
-## 📊 OPERATIONAL TELEMETRY
+## 📊 Operational Telemetry
 
 <div align="center">
 
@@ -134,7 +106,7 @@ graph TD
 
 ---
 
-## 🌐 CONNECT WITH MISSION CONTROL
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -164,6 +136,6 @@ graph TD
 
 <br><br>
 
-> *"In cybersecurity, understanding the attack is essential to building effective defense. In aerospace, redundancy and hardening are key to survival."*
+> *"In cybersecurity, understanding the attack is essential to building effective defense."*
 
 </div>
