@@ -1,228 +1,156 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Cyber+Ghost&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=40" width="100%" />
+<!-- CAPSULE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=CYBER%20GHOST&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=40" width="100%" />
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE5b2YwZngxOG95djBvdmVmOGhwZzdianByb3V4ajV2YmdlNmgwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6NiX9zeko5Le8/giphy.gif" width="75%">
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=%5B%2B%5D+CYBERSECURITY+ENGINEERING;%5B%2B%5D+OFFENSIVE+%26+DEFENSIVE+SECURITY;%5B%2B%5D+DFIR+%E2%80%A2+SOC+%E2%80%A2+PENTEST;%5B%2B%5D+SECURITY+RESEARCH+%26+AUTOMATION" alt="Typing SVG" />
-
-</div>
-
----
-
-# 🔥 Professional Profile
-
-> **Status:** Active  
-> **Focus Areas:** Cybersecurity, DFIR, Pentest & Security Operations  
->
-> **Current Role:** Computer Engineering Student @ São Judas University  
-> **Specialization:** Offensive Security, Digital Forensics & Network Security  
-> **Objective:** Building practical cybersecurity solutions through ethical hacking, automation, hardening, and security analysis.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CYBERSECURITY-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/SOC-000000?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-<img src="https://img.shields.io/badge/PENTEST-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
-
-</div>
-
----
-
-# 🎓 Certifications & Training
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-<img src="https://img.shields.io/badge/Cisco-CyberOps_Associate-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
-<br><small>Security Operations</small>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-FF0000?style=for-the-badge&logo=cisco&logoColor=white" />
-<br><small>Offensive Security</small>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/IBSEC-Analista_SOC-FF0000?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-<br><small>Threat Monitoring</small>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://img.shields.io/badge/RedHat-Ansible-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-<br><small>Automation</small>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/RedHat-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<br><small>Containers</small>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/ISC2-Security_Principles-468145?style=for-the-badge&logo=isc2&logoColor=white" />
-<br><small>Security Foundations</small>
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-## ⚔️ Security Operations Stack
-
-<div align="center">
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTloMDVldTk0eDZxaHg4OW9uYXlyMGhhOTBkbDZpcGQ5OXhvYXU4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGF4DVYSeS5oIx2/giphy.gif" width="250">
-
-</div>
-
----
-
-# 💻 Technical Skills Matrix
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,windows,py,bash,powershell,docker,kubernetes,ansible,azure,gcp,mysql,git,github,vscode,vim,html,css,js" />
-
-</div>
-
----
-
-# 🛡 Cybersecurity & Infrastructure Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cisco-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux_Hardening-111111?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/SIEM-990000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SOC-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DFIR-8B0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pentest-FF0000?style=for-the-badge" />
-
-</div>
-
----
-
-# ⚔️ Offensive Security Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Nmap-FF0000?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-003366?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLmap-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenVAS-228B22?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge" />
-
-</div>
-
----
-
-# 🔵 Blue Team & DFIR Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
-<img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Volatility-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Autopsy-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FTK_Imager-444444?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Threat_Intelligence-660000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Incident_Response-990000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Malware_Analysis-330000?style=for-the-badge" />
-
-</div>
-
----
-
-# 🏗 Infrastructure & Networking
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-<img src="https://img.shields.io/badge/VLAN-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Firewall-8B0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloud_Security-003366?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Network_Security-990000?style=for-the-badge" />
-
-</div>
-
----
-
-# 🚀 Featured Areas
-
-- 🔐 Linux Hardening & Security
-- 🛡 SOC Operations & Threat Monitoring
-- 🌐 Network Security & VLAN Segmentation
-- 🔎 DFIR & Log Analysis
-- ⚡ Bash & Python Automation
-- 🧪 Pentest Labs & Vulnerability Assessment
-- 🏗 Active Directory Security
-- ☁ Cloud & Container Security
-
----
-
-# 📊 Operational Metrics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Leobatman&theme=dark&background=000000&border=FF0000&stroke=FF0000&dates=FFFFFF&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
+<!-- CYBER SECURITY TERMINAL GIF -->
+<img src="https://media.giphy.com/media/TF7224FCEbwxR50bwF/giphy.gif" width="65%" style="border-radius: 8px; border: 2px solid #FF0000; box-shadow: 0px 0px 15px #FF0000;" />
 
 <br><br>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leobatman&bg_color=000000&color=FF0000&line=FF4444&point=FFFFFF&area=true&hide_border=true&custom_title=SECURITY+ACTIVITY+FEED&radius=8)
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=%5B%2B%5D+COMPUTER+ENGINEERING+%7C+AEROSPACE+SYSTEMS+SECURITY;%5B%2B%5D+OFFENSIVE+SECURITY+%26+RED+TEAM;%5B%2B%5D+DFIR+%E2%80%A2+THREAT+HUNTING+%E2%80%A2+SOC+OPERATIONS;%5B%2B%5D+DEVSECOPS+%26+INFRASTRUCTURE+AUTOMATION" alt="Typing SVG" />
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 🛠️ MISSION CONTROL DOSSIER
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SECURITY_STATUS-ACTIVE_OPERATOR-red?style=for-the-badge&logo=gitbook&logoColor=white" />
+<img src="https://img.shields.io/badge/CLEARANCE_LEVEL-SECRET-000000?style=for-the-badge&logo=lockheedmartin&logoColor=white" />
+<img src="https://img.shields.io/badge/MISSION_TARGET-AEROSPACE_CYBERSECURITY-red?style=for-the-badge&logo=nasa&logoColor=white" />
+
+</div>
+
+```bash
+$ whoami
+> Leonardo Pereira Pinheiro (a.k.a Cyber Ghost)
+> Computer Engineering Student @ São Judas University
+> Goal: Postgraduation / Second Degree in Aerospace Engineering & Space Systems Security
+
+$ system_diagnostics --profile
+> Main Focus    : Hardening Critical Infrastructure & Securing Next-Gen Avionics/Satellites
+> Path          : Blending Offensive Expertise (Red Team) with Defensive Cyber Forensics (DFIR)
+> Philosophy    : "To safeguard orbital and ground assets, we must master the attacker's mindset."
+```
+
+---
+
+## 💻 CERTIFICATIONS FLIGHT DECK
+
+<div align="center">
+
+| Specialty / Domain | Badge | Verified Scope |
+| :--- | :---: | :--- |
+| **Security Operations** | <img src="https://img.shields.io/badge/Cisco-CyberOps_Associate-00599C?style=flat-square&logo=cisco&logoColor=white" /> | Threat Monitoring, Detection & SOC Incident Response |
+| **Offensive Tactics** | <img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-FF0000?style=flat-square&logo=cisco&logoColor=white" /> | Penetration Testing, Attack Vectors & Hacking Methodologies |
+| **Defense & SOC** | <img src="https://img.shields.io/badge/IBSEC-Analista_SOC-FF0000?style=flat-square&logo=securityscorecard&logoColor=white" /> | Threat Intel, Vulnerability Analysis & Continuous Monitoring |
+| **Infrastructure Dev** | <img src="https://img.shields.io/badge/RedHat-Ansible-EE0000?style=flat-square&logo=redhat&logoColor=white" /> | Automated Configuration Management, Hardening & Orchestration |
+| **Cloud & Containers** | <img src="https://img.shields.io/badge/RedHat-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> | Container Security, Orchestration Hardening & Microservices |
+| **Fundamentals** | <img src="https://img.shields.io/badge/ISC2-Security_Principles-468145?style=flat-square&logo=isc2&logoColor=white" /> | Core Cyber Security Principles, Governance & Risk Frameworks |
+
+</div>
+
+---
+
+## ⚡ TECHNICAL SKILLS MATRIX
+
+<div align="center">
+
+### Core Scripting & Environments
+<img src="https://skillicons.dev/icons?i=linux,windows,py,bash,powershell,docker,kubernetes,ansible,azure,gcp,mysql,git,github,vscode,vim,html,css,js" />
+
+<br><br>
+
+| Flight Operations | Technologies & Frameworks | Mission Scope |
+| :--- | :--- | :--- |
+| **🔴 Red Team & Penetration Testing** | `Kali Linux` `Nmap` `Burp Suite` `Metasploit` `SQLmap` `Hydra` `OWASP Zap` | Exploit Development, Vulnerability Hacking, Web App Security, Attack Surface Mapping |
+| **🔵 Blue Team & DFIR Operations** | `Wireshark` `Wazuh` `Snort` `Volatility` `Autopsy` `FTK Imager` `SIEM` | Digital Forensics, Memory Analysis, Network Traffic Decoupling, Malware Triage, Threat Hunting |
+| **⚙️ Ground Control & Hardening** | `Docker` `Kubernetes` `Ansible` `Active Directory` `Linux Hardening` `Firewalls` | Automated Patching, VLAN Segmentation, AD Forest Hardening, Identity Access Management (IAM) |
+| **🚀 Space-Cyber R&D Stack** | `Embedded C/C++` `RTL-SDR` `GNSS Spoofing` `Zephyr RTOS` `Avionics Protocols` | CubeSat Hardening, Firmware Reverse Engineering, Signal Analysis, Real-Time Systems Integrity |
+
+</div>
+
+---
+
+## 🛰️ SPACE-CYBER R&D PATHWAY (AEROSPACE ROADMAP)
+
+*Targeting the intersection of Computer Engineering and Space Systems to safeguard orbital communications, ground-stations, and avionics.*
+
+```mermaid
+graph TD
+    A[Computer Engineering Foundation] --> B[Embedded Systems & RTOS Hardening]
+    A --> C[Offensive/Defensive Cyber Ops]
+    B --> D[Space-Cyber R&D]
+    C --> D
+    D --> E[Target: Aerospace Systems Security Postgrad]
+    
+    style A fill:#000,stroke:#FF0000,stroke-width:2px,color:#fff
+    style B fill:#000,stroke:#FF4444,stroke-width:1px,color:#fff
+    style C fill:#000,stroke:#FF4444,stroke-width:1px,color:#fff
+    style D fill:#FF0000,stroke:#000,stroke-width:2px,color:#fff
+    style E fill:#000,stroke:#00599C,stroke-width:3px,color:#fff
+```
+
+### 🎯 Research & Self-Study Milestones
+* **📡 RF & Satellite Telemetry Hacking:** Analyzing satellite signal downlinks, decoding amateur radio packets, and exploring GNU Radio with **RTL-SDR**.
+* **🛰️ Avionics & Embedded Protocols:** Reverse-engineering and securing communication interfaces like **CAN Bus**, **ARINC 429**, and **MIL-STD-1553**.
+* **🌀 Real-Time OS (RTOS) Hardening:** Exploring micro-kernel security configurations under **Zephyr** and **FreeRTOS** for aerospace microcontrollers.
+* **🔒 Space-Grade Communication Security:** Researching quantum-resistant lightweight cryptography for satellite ground-station uplinks.
+
+---
+
+## 🚀 FEATURED OPERATIONAL LABS
+
+- **🔐 Linux Hardening & Audit:** Implementing CIS Benchmarks and custom Ansible playbooks to harden production Linux servers.
+- **🌐 Network Security Lab:** Designing robust VLAN structures, PFSense rules, and intrusion detection alerts with Wazuh & Snort.
+- **🏗 Active Directory Attack & Defend:** Deploying home labs mimicking enterprise networks to test Kerberoasting, Bloodhound path analysis, and AD GPO hardening.
+- **🔎 Incident Response Playbooks:** Writing custom Python scripts to parse volatility memory dumps and dissect malicious PCAP artifacts.
+
+---
+
+## 📊 OPERATIONAL TELEMETRY
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Leobatman&theme=dark&background=000000&border=FF0000&stroke=FF0000&dates=FFFFFF&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="70%" />
+
+<br><br>
+
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leobatman/Leobatman/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leobatman/Leobatman/output/github-contribution-grid-snake.svg" width="70%">
+</picture>
+
+<br><br>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leobatman&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true&custom_title=SECURITY+ACTIVITY+FEED&radius=8)
+
+</div>
+
+---
+
+## 🌐 CONNECT WITH MISSION CONTROL
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/leonardo-pereira-pinheiro/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://tryhackme.com/p/Cyberghost7" target="_blank">
-<img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://app.hackthebox.com/users/2929177" target="_blank">
-<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </a>
 
 </div>
-
----
-
-# 🎯 Current Focus
-
-- Developing cybersecurity labs and automation projects
-- Studying offensive and defensive security methodologies
-- Improving DFIR and threat detection skills
-- Building secure infrastructure and monitoring environments
-- Expanding knowledge in cloud and container security
 
 ---
 
@@ -230,10 +158,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer&reversal=true" width="100%" />
 
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=Leobatman&color=FF0000&style=flat-square" />
 
 <br><br>
 
-<i>"In cybersecurity, understanding the attack is essential to building effective defense."</i>
+> *"In cybersecurity, understanding the attack is essential to building effective defense. In aerospace, redundancy and hardening are key to survival."*
 
 </div>
