@@ -96,7 +96,7 @@ $ mission_target --future
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leobatman/Leobatman/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leobatman/Leobatman/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Leobatman/Leobatman/output/pacman-contribution-graph.svg" width="70%">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Leobatman/Leobatman/output/pacman-contribution-graph.svg" width="1000%">
 </picture>
 
 <br><br>
