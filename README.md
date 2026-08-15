@@ -1,86 +1,231 @@
 <div align="center">
 
-<!-- CAPSULE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=CYBER%20GHOST&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=40" width="100%" />
 
-<!-- CYBER SECURITY TERMINAL GIF (RESIZED TO 75%) -->
-<img src="https://media.giphy.com/media/TF7224FCEbwxR50bwF/giphy.gif" width="75%" style="border-radius: 8px; border: 2px solid #FF0000; box-shadow: 0px 0px 15px #FF0000;" />
+<br>
+
+<img src="https://media.giphy.com/media/TF7224FCEbwxR50bwF/giphy.gif" width="75%" alt="Cybersecurity Terminal" />
 
 <br><br>
 
-<!-- TYPING SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=%5B%2B%5D+COMPUTER+ENGINEERING+%7C+CYBERSECURITY;%5B%2B%5D+OFFENSIVE+SECURITY+%26+RED+TEAM;%5B%2B%5D+DFIR+%E2%80%A2+THREAT+HUNTING+%E2%80%A2+SOC+OPERATIONS;%5B%2B%5D+LINUX+SECURITY+%26+INFRASTRUCTURE+AUTOMATION" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=%5B%2B%5D+COMPUTER+ENGINEERING+%7C+CYBERSECURITY;%5B%2B%5D+OFFENSIVE+SECURITY+%26+RED+TEAM;%5B%2B%5D+DFIR+%E2%80%A2+THREAT+HUNTING+%E2%80%A2+SOC;%5B%2B%5D+SECURITY+RESEARCH+%26+AUTOMATION" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🔥 Professional Profile
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE_OPERATOR-red?style=for-the-badge&logo=gitbook&logoColor=white" />
-<img src="https://img.shields.io/badge/FOCUS-SOC_%E2%80%A2_PENTEST_%E2%80%A2_DFIR-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/TARGET-AEROSPACE_SECURITY-red?style=for-the-badge&logo=nasa&logoColor=white" />
-
-</div>
+## 👻 About Me
 
 ```bash
 $ whoami
-> Leonardo Pereira Pinheiro (a.k.a Cyber Ghost)
-> Computer Engineering Student @ São Judas University
-> Core Focus: Security Operations (SOC), Digital Forensics (DFIR) & Ethical Hacking
 
-$ mission_target --future
-> Academic Goal: Postgraduation / Second Degree in Aerospace Engineering
-> Technical Aim : Hardening Embedded Systems & Aerospace Infrastructure
+> Leonardo Pereira Pinheiro
+> Alias: Cyber Ghost
+> Computer Engineering Student
+
+$ cat /etc/focus
+
+> Cybersecurity
+> Offensive Security
+> Red Team
+> Penetration Testing
+> Digital Forensics & Incident Response
+> Threat Hunting
+> Security Operations
+> Linux & Infrastructure Security
+> Security Automation
+```
+
+I am a Computer Engineering student focused on cybersecurity and practical security research.
+
+My interests involve understanding how systems are attacked, investigated, monitored and secured, with a strong focus on offensive security and security engineering.
+
+---
+
+## 🔴 Offensive Security
+
+```text
+[+] Offensive Security
+    ├── Reconnaissance
+    ├── Enumeration
+    ├── Web Application Security
+    ├── Network Security
+    ├── Vulnerability Assessment
+    ├── Exploitation
+    ├── Privilege Escalation
+    └── Red Team Operations
+```
+
+### Tools
+
+`Kali Linux` `Nmap` `Burp Suite` `Metasploit` `ffuf` `Nuclei` `Subfinder` `httpx` `SQLmap` `Hydra`
+
+---
+
+## 🔵 Defensive Security & DFIR
+
+```text
+[+] Defensive Security
+    ├── SOC Operations
+    ├── Threat Hunting
+    ├── Incident Response
+    ├── Digital Forensics
+    ├── Log Analysis
+    ├── Security Monitoring
+    └── Detection Engineering
+```
+
+### Tools
+
+`Wireshark` `Wazuh` `Suricata` `Snort` `Volatility` `Autopsy` `FTK Imager` `Graylog`
+
+---
+
+## ⚙️ Infrastructure & Security Engineering
+
+```text
+[+] Infrastructure
+    ├── Linux Security
+    ├── Windows Security
+    ├── Active Directory
+    ├── Network Security
+    ├── Infrastructure Hardening
+    ├── Container Security
+    ├── Cloud Security
+    └── Infrastructure Automation
+```
+
+### Technologies
+
+`Linux` `Windows` `Active Directory` `Docker` `Kubernetes` `Terraform` `Ansible` `Azure` `GCP`
+
+---
+
+## 🧑‍💻 Programming & Automation
+
+```text
+[+] Development
+    ├── Security Automation
+    ├── Tool Development
+    ├── Scripting
+    ├── API Integration
+    └── Security Research
+```
+
+### Languages
+
+`Python` `Bash` `PowerShell` `JavaScript` `HTML` `CSS`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,windows,python,bash,powershell,docker,kubernetes,ansible,azure,gcp,mysql,git,github,vscode,vim,html,css,js" />
+
+</div>
+
+---
+
+## 🧪 Security Laboratory
+
+I use security laboratories and controlled environments to study offensive and defensive security concepts.
+
+```text
+                         ┌──────────────────────┐
+                         │      RED TEAM        │
+                         │                      │
+                         │ Recon • Exploitation │
+                         │ Post-Exploitation    │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                    ┌──────────────────────────────┐
+                    │       TARGET ENVIRONMENT     │
+                    │                              │
+                    │ Linux • Windows • AD         │
+                    │ Web Applications             │
+                    │ Internal Services            │
+                    └──────────────┬───────────────┘
+                                   │
+                              Telemetry
+                                   │
+                                   ▼
+                    ┌──────────────────────────────┐
+                    │          SECURITY SOC        │
+                    │                              │
+                    │ Wazuh • Suricata             │
+                    │ Threat Hunting               │
+                    │ Detection Engineering        │
+                    │ Incident Response            │
+                    └──────────────────────────────┘
 ```
 
 ---
 
-## 🎓 Certifications & Training
+## 🛰️ Aerospace & Embedded Security
 
-<div align="center">
+Long-term research direction combining **Computer Engineering, Cybersecurity and Aerospace Technology**.
 
-| Domain | Certification / Badge | Scope |
-| :--- | :---: | :--- |
-| **Security Operations** | <img src="https://img.shields.io/badge/Cisco-CyberOps_Associate-00599C?style=flat-square&logo=cisco&logoColor=white" /> | SOC Operations, Incident Response & Threat Monitoring |
-| **Offensive Tactics** | <img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-FF0000?style=flat-square&logo=cisco&logoColor=white" /> | Penetration Testing, Attack Vectors & Hacking |
-| **Defense & Monitoring** | <img src="https://img.shields.io/badge/IBSEC-Analista_SOC-FF0000?style=flat-square&logo=securityscorecard&logoColor=white" /> | Threat Intelligence, Vulnerability & SIEM Analysis |
-| **Automation** | <img src="https://img.shields.io/badge/RedHat-Ansible-EE0000?style=flat-square&logo=redhat&logoColor=white" /> | Automated Configuration Management & Hardening |
-| **Cloud & Containers** | <img src="https://img.shields.io/badge/RedHat-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> | Container Orchestration Hardening & Microservices |
-| **Security Foundations** | <img src="https://img.shields.io/badge/ISC2-Security_Principles-468145?style=flat-square&logo=isc2&logoColor=white" /> | Core Cyber Security Principles & Governance |
+### 📡 Software-Defined Radio
 
-</div>
+Exploring:
+
+* RF communication fundamentals
+* Telemetry analysis
+* Signal processing
+* Communication security
+* SDR experimentation
+
+`RTL-SDR`
+
+### 🔒 Embedded & Firmware Security
+
+Research interests:
+
+* Firmware reverse engineering
+* Embedded systems security
+* Microcontroller security
+* Secure boot
+* Low-level vulnerability research
+* Hardware/software attack surfaces
+
+### 🛰️ Space & Satellite Infrastructure
+
+Exploring:
+
+* Satellite communication security
+* Ground station security
+* Telemetry protection
+* Critical communication systems
+* Space infrastructure security
 
 ---
 
-## 💻 Technical Skills
+## 🔬 Current Research
 
-<div align="center">
+```text
+[+] Offensive Security
+    ├── Web Application Security
+    ├── Network Pentesting
+    ├── Privilege Escalation
+    └── Red Team Methodologies
 
-### Tools & Environments
-<img src="https://skillicons.dev/icons?i=linux,windows,py,bash,powershell,docker,kubernetes,ansible,azure,gcp,mysql,git,github,vscode,vim,html,css,js" />
+[+] Defensive Security
+    ├── Threat Hunting
+    ├── Detection Engineering
+    ├── Digital Forensics
+    └── Incident Response
 
-<br><br>
+[+] Infrastructure Security
+    ├── Linux Hardening
+    ├── Active Directory
+    ├── Container Security
+    └── Infrastructure Automation
 
-| Specialty | Tools & Technologies | Focus |
-| :--- | :--- | :--- |
-| **🔴 Offensive Security** | `Kali Linux` `Nmap` `Burp Suite` `Metasploit` `SQLmap` `Hydra` `OWASP Zap` | Ethical Hacking, Web App Pentesting, Vulnerability Assessment |
-| **🔵 Defensive Security** | `Wireshark` `Wazuh` `Snort` `Volatility` `Autopsy` `FTK Imager` `SIEM` | Digital Forensics, Incident Response, Log Analysis, Threat Hunting |
-| **⚙️ Infrastructure & AD** | `Docker` `Kubernetes` `Ansible` `Active Directory` `Linux Hardening` `Firewalls` | Infrastructure Hardening, VLAN Segmentation, AD Security & IAM |
-
-</div>
-
----
-
-## 🛰️ Future Horizon: Aerospace Security (Self-Study & Goals)
-
-*Complementing Computer Engineering and Cibersecurity with a long-term goal of securing critical aerospace infrastructure and embedded flight systems.*
-
-* **📡 Software-Defined Radio (SDR):** Exploring RF communications, decoding telemetry, and signal auditing using **RTL-SDR**.
-* **🔒 Embedded & Firmware Security:** Researching reverse engineering of firmware and security methodologies for low-power microcontrollers.
-* **🛰️ Cubesats & Space Infrastructure:** Studying vulnerabilities in satellite ground stations and space-grade communication networks.
+[+] Security Engineering
+    ├── Security Tooling
+    ├── Automation
+    ├── Security Laboratories
+    └── Monitoring & Detection
+```
 
 ---
 
@@ -92,18 +237,35 @@ $ mission_target --future
 
 <br><br>
 
-<!-- PACMAN CONTRIBUTION GRAPH ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leobatman/Leobatman/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leobatman/Leobatman/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Leobatman/Leobatman/output/pacman-contribution-graph.svg" width="1000%">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Leobatman/Leobatman/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
 <br><br>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leobatman&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true&custom_title=SECURITY+ACTIVITY+FEED&radius=8)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leobatman&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true&custom_title=SECURITY+ACTIVITY+FEED&radius=8" width="100%" />
 
 </div>
+
+---
+
+## 🎯 Mission
+
+```bash
+$ mission_status
+
+[ACTIVE]
+
+01. Develop advanced offensive security capabilities
+02. Improve DFIR & Threat Hunting expertise
+03. Build security automation skills
+04. Expand security laboratory environments
+05. Research embedded systems security
+06. Explore aerospace cybersecurity
+07. Continuously study and experiment
+```
 
 ---
 
@@ -114,13 +276,23 @@ $ mission_target --future
 <a href="https://www.linkedin.com/in/leonardo-pereira-pinheiro/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;
+
+  
+
 <a href="https://tryhackme.com/p/Cyberghost7" target="_blank">
   <img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
-&nbsp;&nbsp;
+
+  
+
 <a href="https://app.hackthebox.com/users/2929177" target="_blank">
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+</a>
+
+  
+
+<a href="https://github.com/Leobatman" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
