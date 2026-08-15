@@ -25,20 +25,18 @@ $ whoami
 
 $ cat /etc/focus
 
-> Cybersecurity
-> Offensive Security
-> Red Team
-> Penetration Testing
-> Digital Forensics & Incident Response
-> Threat Hunting
-> Security Operations
+> Offensive Security & Red Team
+> Digital Forensics & Incident Response (DFIR)
+> Threat Hunting & Security Operations
 > Linux & Infrastructure Security
-> Security Automation
+> Security Automation & Tooling
 ```
 
-I am a Computer Engineering student focused on cybersecurity and practical security research.
+Computer Engineering student focused on **practical, hands-on security research** — how systems get attacked, investigated, monitored and secured.
 
-My interests involve understanding how systems are attacked, investigated, monitored and secured, with a strong focus on offensive security and security engineering.
+I split my time between offense and defense: breaking things in the lab to understand attacker behavior, then building the detection and response side to catch it.
+
+**Long-term goal:** working in **space systems security** — securing satellite communications, ground stations and telemetry as space infrastructure becomes a real attack surface.
 
 ---
 
@@ -56,9 +54,7 @@ My interests involve understanding how systems are attacked, investigated, monit
     └── Red Team Operations
 ```
 
-### Tools
-
-`Kali Linux` `Nmap` `Burp Suite` `Metasploit` `ffuf` `Nuclei` `Subfinder` `httpx` `SQLmap` `Hydra`
+**Tools:** `Kali Linux` `Nmap` `Burp Suite` `Metasploit` `ffuf` `Nuclei` `Subfinder` `httpx` `SQLmap` `Hydra`
 
 ---
 
@@ -75,9 +71,7 @@ My interests involve understanding how systems are attacked, investigated, monit
     └── Detection Engineering
 ```
 
-### Tools
-
-`Wireshark` `Wazuh` `Suricata` `Snort` `Volatility` `Autopsy` `FTK Imager` `Graylog`
+**Tools:** `Wireshark` `Wazuh` `Suricata` `Snort` `Volatility` `Autopsy` `FTK Imager` `Graylog`
 
 ---
 
@@ -95,9 +89,7 @@ My interests involve understanding how systems are attacked, investigated, monit
     └── Infrastructure Automation
 ```
 
-### Technologies
-
-`Linux` `Windows` `Active Directory` `Docker` `Kubernetes` `Terraform` `Ansible` `Azure` `GCP`
+**Technologies:** `Linux` `Windows` `Active Directory` `Docker` `Kubernetes` `Terraform` `Ansible` `Azure` `GCP`
 
 ---
 
@@ -112,9 +104,7 @@ My interests involve understanding how systems are attacked, investigated, monit
     └── Security Research
 ```
 
-### Languages
-
-`Python` `Bash` `PowerShell` `JavaScript` `HTML` `CSS`
+**Languages:** `Python` `Bash` `PowerShell` `JavaScript` `HTML` `CSS`
 
 <div align="center">
 
@@ -126,15 +116,15 @@ My interests involve understanding how systems are attacked, investigated, monit
 
 ## 🧪 Security Laboratory
 
-I use security laboratories and controlled environments to study offensive and defensive security concepts.
+Controlled environments to study offensive and defensive concepts end-to-end — attack, telemetry, and detection in one pipeline.
 
 ```text
                          ┌──────────────────────┐
-                         │      RED TEAM        │
-                         │                      │
-                         │ Recon • Exploitation │
-                         │ Post-Exploitation    │
-                         └──────────┬───────────┘
+                         │      RED TEAM         │
+                         │                       │
+                         │ Recon • Exploitation  │
+                         │ Post-Exploitation     │
+                         └──────────┬────────────┘
                                     │
                                     ▼
                     ┌──────────────────────────────┐
@@ -162,69 +152,29 @@ I use security laboratories and controlled environments to study offensive and d
 
 ## 🛰️ Aerospace & Embedded Security
 
-Long-term research direction combining **Computer Engineering, Cybersecurity and Aerospace Technology**.
+Career direction combining **Computer Engineering, Cybersecurity and Aerospace Technology** — building toward space systems security.
 
-### 📡 Software-Defined Radio
+**📡 Software-Defined Radio** — RF communication fundamentals, telemetry analysis, signal processing, communication security, SDR experimentation (`RTL-SDR`)
 
-Exploring:
+**🔒 Embedded & Firmware Security** — firmware reverse engineering, embedded systems security, microcontroller security, secure boot, low-level vulnerability research
 
-* RF communication fundamentals
-* Telemetry analysis
-* Signal processing
-* Communication security
-* SDR experimentation
-
-`RTL-SDR`
-
-### 🔒 Embedded & Firmware Security
-
-Research interests:
-
-* Firmware reverse engineering
-* Embedded systems security
-* Microcontroller security
-* Secure boot
-* Low-level vulnerability research
-* Hardware/software attack surfaces
-
-### 🛰️ Space & Satellite Infrastructure
-
-Exploring:
-
-* Satellite communication security
-* Ground station security
-* Telemetry protection
-* Critical communication systems
-* Space infrastructure security
+**🛰️ Space & Satellite Infrastructure** — satellite communication security, ground station security, telemetry protection, critical communication systems
 
 ---
 
-## 🔬 Current Research
+## 🎯 Mission
 
-```text
-[+] Offensive Security
-    ├── Web Application Security
-    ├── Network Pentesting
-    ├── Privilege Escalation
-    └── Red Team Methodologies
+```bash
+$ mission_status
 
-[+] Defensive Security
-    ├── Threat Hunting
-    ├── Detection Engineering
-    ├── Digital Forensics
-    └── Incident Response
+[ACTIVE]
 
-[+] Infrastructure Security
-    ├── Linux Hardening
-    ├── Active Directory
-    ├── Container Security
-    └── Infrastructure Automation
-
-[+] Security Engineering
-    ├── Security Tooling
-    ├── Automation
-    ├── Security Laboratories
-    └── Monitoring & Detection
+01. Develop advanced offensive security capabilities
+02. Improve DFIR & Threat Hunting expertise
+03. Build security automation & tooling
+04. Expand security laboratory environments
+05. Research embedded & aerospace systems security
+06. Continuously study, break, and rebuild
 ```
 
 ---
@@ -251,24 +201,6 @@ Exploring:
 
 ---
 
-## 🎯 Mission
-
-```bash
-$ mission_status
-
-[ACTIVE]
-
-01. Develop advanced offensive security capabilities
-02. Improve DFIR & Threat Hunting expertise
-03. Build security automation skills
-04. Expand security laboratory environments
-05. Research embedded systems security
-06. Explore aerospace cybersecurity
-07. Continuously study and experiment
-```
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -276,21 +208,12 @@ $ mission_status
 <a href="https://www.linkedin.com/in/leonardo-pereira-pinheiro/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-  
-
 <a href="https://tryhackme.com/p/Cyberghost7" target="_blank">
   <img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
-
-  
-
 <a href="https://app.hackthebox.com/users/2929177" target="_blank">
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </a>
-
-  
-
 <a href="https://github.com/Leobatman" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
