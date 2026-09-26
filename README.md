@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=CYBER%20GHOST&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=CYBER%20GHOST%202077&fontSize=50&fontColor=000000&animation=twinkling&fontAlignY=40" width="100%" />
 
 <br>
 
