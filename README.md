@@ -186,7 +186,7 @@ Status    : Valid vulnerability reported on a fintech program
 <tr>
 <td width="50%" align="center">
 <!-- 👇 GIF DA NASA: troque a URL abaixo se quiser outro -->
-<img src="https://media.giphy.com/media/3ohc0PkM8mVYfmBHz2/giphy-downsized-large.gif" width="100%" alt="NASA satellite orbiting Earth" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M4Z3d5YXAxMGl3endwajEzcmY4YjNrY2pwZzh1M2N3azFzajVvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gkgwQkzP3lN5u/giphy.gif" width="100%" alt="NASA satellite orbiting Earth" />
 <br><sub>🛰️ via NASA on GIPHY</sub>
 </td>
 <td width="50%" valign="top">
