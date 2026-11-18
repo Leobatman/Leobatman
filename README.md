@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:B30000&height=200&section=header&text=CYBER%20GHOST%202077&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Offensive%20Security%20%E2%80%A2%20DFIR%20%E2%80%A2%20Security%20Research&descAlignY=58&descSize=18" width="100%" />
 <img src="https://media.giphy.com/media/TF7224FCEbwxR50bwF/giphy.gif" width="70%" alt="Cybersecurity Terminal" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF2E2E&center=true&vCenter=true&width=900&lines=%5B%2B%5D+COMPUTER+ENGINEERING+%7C+CYBERSECURITY;%5B%2B%5D+OFFENSIVE+SECURITY+%26+RED+TEAM;%5B%2B%5D+DFIR+%E2%80%A2+THREAT+HUNTING+%E2%80%A2+MALWARE+ANALYSIS;%5B%2B%5D+BUG+BOUNTY+%40+BUGCROWD+%26+HACKERONE;%5B%2B%5D+ROAD+TO+OSCP" alt="Typing SVG" />
+ 
 <p>
 <a href="https://www.linkedin.com/in/leonardo-pereira-pinheiro/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/p/Cyberghost7"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
@@ -9,7 +10,9 @@
 <a href="https://bugcrowd.com/Cyberghost2077"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" /></a>
 <a href="https://github.com/Leobatman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+ 
 </div>
+ 
 ---
  
 ## 👻 About Me
@@ -17,22 +20,19 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-**Leonardo Pereira Pinheiro** · *Cyber Ghost*
- 
-🎓 Computer Engineering — São Judas *(in progress)*<br>
-🛡️ Cybersecurity Technician — SENAC São Paulo<br>
-🎯 Road to **OSCP**
- 
-**🔴 Offense** — recon, web, AD, exploitation, privesc
- 
-**🔵 Defense** — SOC, threat hunting, DFIR, detection engineering
- 
-**🧬 Reverse** — malware analysis, binary exploitation, firmware
- 
-**🛰️ Goal** — space systems security: satellite links, ground stations and telemetry
- 
-📍 São Paulo, Brazil · 🇧🇷 PT / 🇺🇸 EN
- 
+<h3>Leonardo Pereira Pinheiro</h3>
+<b><i>Cyber Ghost</i></b> · Offensive Security &amp; DFIR
+<br><br>
+🎓 <b>Computer Engineering</b> — São Judas <i>(in progress)</i><br>
+🛡️ <b>Cybersecurity Technician</b> — SENAC São Paulo<br>
+🎯 <b>Road to OSCP</b>
+<br><br>
+🔴 <b>Offense</b> — recon, web, AD, exploitation, privesc<br><br>
+🔵 <b>Defense</b> — SOC, threat hunting, DFIR, detection engineering<br><br>
+🧬 <b>Reverse</b> — malware analysis, binary exploitation, firmware<br><br>
+🛰️ <b>Goal</b> — space systems security: satellite links, ground stations and telemetry
+<br><br>
+📍 <b>São Paulo, Brazil</b> · 🇧🇷 PT / 🇺🇸 EN
 </td>
 <td width="50%" align="center">
 <!-- 👇 GIF DO ABOUT ME: troque a URL abaixo -->
@@ -40,47 +40,9 @@
 </td>
 </tr>
 </table>
-I break systems in the lab to understand how attackers think, then build the detection and response to catch them. Every technique I study ends up as a lab, a write-up or a tool.
  
----
+I **break systems in the lab** to understand how attackers think, then **build the detection and response** to catch them. Every technique I study ends up as a **lab**, a **write-up** or a **tool**.
  
-## 🚀 Featured Projects
- 
-<table>
-<tr>
-<td width="50%" valign="top">
-### 🔍 [dntriage](https://github.com/Leobatman/dntriage)
-Open source triage tool for **.NET malware**: detects obfuscators/packers (ConfuserEx), extracts IOCs and generates a quick analysis report.
- 
-`Python` `dnlib` `YARA`
- 
-</td>
-<td width="50%" valign="top">
-### 🤖 Ultron — Agente-Pentest
-**Multi-AI Cyber SOC** platform with a neural dashboard that assists recon, enumeration and reporting during pentests.
- 
-`Python` `LLMs` `Docker`
- 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-### 🧪 Purple Team Lab
-Attack → telemetry → detection pipeline: AD, Linux and web targets monitored by Wazuh, Suricata and Sysmon.
- 
-`Active Directory` `Wazuh` `Sigma`
- 
-</td>
-<td width="50%" valign="top">
-### 🧬 Coming next
-**Detection Tester** — validate detection rules against ATT&CK techniques.
-**BR Threat Intel** — feed focused on threats targeting Brazil.
- 
-`Sigma` `ATT&CK` `MISP` `OpenCTI`
- 
-</td>
-</tr>
-</table>
 ---
  
 ## 🛠️ Arsenal
@@ -96,6 +58,7 @@ Attack → telemetry → detection pipeline: AD, Linux and web targets monitored
 <tr><td width="190"><b>Password Attacks</b></td><td><img src="https://img.shields.io/badge/-Hashcat-8B0000?style=for-the-badge" alt="Hashcat" /> <img src="https://img.shields.io/badge/-John%20the%20Ripper-8B0000?style=for-the-badge" alt="John the Ripper" /> <img src="https://img.shields.io/badge/-Hydra-8B0000?style=for-the-badge" alt="Hydra" /> <img src="https://img.shields.io/badge/-CeWL-8B0000?style=for-the-badge" alt="CeWL" /> <img src="https://img.shields.io/badge/-SecLists-8B0000?style=for-the-badge" alt="SecLists" /></td></tr>
 <tr><td width="190"><b>Wireless & RF</b></td><td><img src="https://img.shields.io/badge/-Aircrack--ng-8B0000?style=for-the-badge" alt="Aircrack-ng" /> <img src="https://img.shields.io/badge/-Bettercap-8B0000?style=for-the-badge" alt="Bettercap" /> <img src="https://img.shields.io/badge/-Wifite-8B0000?style=for-the-badge" alt="Wifite" /> <img src="https://img.shields.io/badge/-RTL--SDR-8B0000?style=for-the-badge" alt="RTL-SDR" /> <img src="https://img.shields.io/badge/-GNU%20Radio-8B0000?style=for-the-badge" alt="GNU Radio" /> <img src="https://img.shields.io/badge/-SDR%2B%2B-8B0000?style=for-the-badge" alt="SDR++" /> <img src="https://img.shields.io/badge/-GQRX-8B0000?style=for-the-badge" alt="GQRX" /></td></tr>
 </table>
+ 
 ### 🔵 Defensive Security & DFIR
  
 <table>
@@ -106,6 +69,7 @@ Attack → telemetry → detection pipeline: AD, Linux and web targets monitored
 <tr><td width="190"><b>Forensics</b></td><td><img src="https://img.shields.io/badge/-Autopsy-0B3D91?style=for-the-badge" alt="Autopsy" /> <img src="https://img.shields.io/badge/-The%20Sleuth%20Kit-0B3D91?style=for-the-badge" alt="The Sleuth Kit" /> <img src="https://img.shields.io/badge/-FTK%20Imager-0B3D91?style=for-the-badge" alt="FTK Imager" /> <img src="https://img.shields.io/badge/-Volatility%203-0B3D91?style=for-the-badge" alt="Volatility 3" /> <img src="https://img.shields.io/badge/-KAPE-0B3D91?style=for-the-badge" alt="KAPE" /> <img src="https://img.shields.io/badge/-Eric%20Zimmerman%20Tools-0B3D91?style=for-the-badge" alt="Eric Zimmerman Tools" /> <img src="https://img.shields.io/badge/-Plaso-0B3D91?style=for-the-badge" alt="Plaso" /> <img src="https://img.shields.io/badge/-RegRipper-0B3D91?style=for-the-badge" alt="RegRipper" /> <img src="https://img.shields.io/badge/-bulk__extractor-0B3D91?style=for-the-badge" alt="bulk_extractor" /> <img src="https://img.shields.io/badge/-ExifTool-0B3D91?style=for-the-badge" alt="ExifTool" /></td></tr>
 <tr><td width="190"><b>Threat Intel & IR</b></td><td><img src="https://img.shields.io/badge/-MISP-0B3D91?style=for-the-badge" alt="MISP" /> <img src="https://img.shields.io/badge/-OpenCTI-0B3D91?style=for-the-badge" alt="OpenCTI" /> <img src="https://img.shields.io/badge/-TheHive-0B3D91?style=for-the-badge" alt="TheHive" /> <img src="https://img.shields.io/badge/-VirusTotal-0B3D91?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal" /> <img src="https://img.shields.io/badge/-CyberChef-0B3D91?style=for-the-badge" alt="CyberChef" /> <img src="https://img.shields.io/badge/-ANY.RUN-0B3D91?style=for-the-badge" alt="ANY.RUN" /></td></tr>
 </table>
+ 
 ### 🧬 Reverse Engineering, Malware & Pwn
  
 <table>
@@ -117,6 +81,7 @@ Attack → telemetry → detection pipeline: AD, Linux and web targets monitored
 <tr><td width="190"><b>Firmware / Embedded</b></td><td><img src="https://img.shields.io/badge/-binwalk-4A148C?style=for-the-badge" alt="binwalk" /> <img src="https://img.shields.io/badge/-Firmware%20Analysis%20Toolkit-4A148C?style=for-the-badge" alt="Firmware Analysis Toolkit" /> <img src="https://img.shields.io/badge/-QEMU-4A148C?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" /> <img src="https://img.shields.io/badge/-Arduino-4A148C?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /> <img src="https://img.shields.io/badge/-Raspberry%20Pi-4A148C?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" /></td></tr>
 <tr><td width="190"><b>CTF Misc / Crypto</b></td><td><img src="https://img.shields.io/badge/-Steghide-4A148C?style=for-the-badge" alt="Steghide" /> <img src="https://img.shields.io/badge/-zsteg-4A148C?style=for-the-badge" alt="zsteg" /> <img src="https://img.shields.io/badge/-StegSolve-4A148C?style=for-the-badge" alt="StegSolve" /> <img src="https://img.shields.io/badge/-RsaCtfTool-4A148C?style=for-the-badge" alt="RsaCtfTool" /> <img src="https://img.shields.io/badge/-SageMath-4A148C?style=for-the-badge" alt="SageMath" /> <img src="https://img.shields.io/badge/-hashid-4A148C?style=for-the-badge" alt="hashid" /></td></tr>
 </table>
+ 
 ### ⚙️ Infrastructure & Cloud
  
 <table>
@@ -125,16 +90,19 @@ Attack → telemetry → detection pipeline: AD, Linux and web targets monitored
 <tr><td width="190"><b>IaC & Cloud</b></td><td><img src="https://img.shields.io/badge/-Terraform-21262D?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/-Ansible-21262D?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /> <img src="https://img.shields.io/badge/-Azure-21262D?style=for-the-badge" alt="Azure" /> <img src="https://img.shields.io/badge/-Google%20Cloud-21262D?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" /> <img src="https://img.shields.io/badge/-AWS-21262D?style=for-the-badge" alt="AWS" /></td></tr>
 <tr><td width="190"><b>Cloud / Code Security</b></td><td><img src="https://img.shields.io/badge/-Trivy-21262D?style=for-the-badge" alt="Trivy" /> <img src="https://img.shields.io/badge/-Prowler-21262D?style=for-the-badge" alt="Prowler" /> <img src="https://img.shields.io/badge/-ScoutSuite-21262D?style=for-the-badge" alt="ScoutSuite" /> <img src="https://img.shields.io/badge/-Checkov-21262D?style=for-the-badge" alt="Checkov" /> <img src="https://img.shields.io/badge/-Semgrep-21262D?style=for-the-badge&logo=semgrep&logoColor=white" alt="Semgrep" /> <img src="https://img.shields.io/badge/-Gitleaks-21262D?style=for-the-badge" alt="Gitleaks" /> <img src="https://img.shields.io/badge/-SonarQube-21262D?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" /></td></tr>
 </table>
+ 
 ### 🧑‍💻 Programming & Workflow
  
 <table>
 <tr><td width="190"><b>Languages</b></td><td><img src="https://img.shields.io/badge/-Python-1B5E20?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Bash-1B5E20?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/-PowerShell-1B5E20?style=for-the-badge" alt="PowerShell" /> <img src="https://img.shields.io/badge/-C-1B5E20?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/-C%2B%2B-1B5E20?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/-Assembly%20x86%2Fx64-1B5E20?style=for-the-badge" alt="Assembly x86/x64" /> <img src="https://img.shields.io/badge/-JavaScript-1B5E20?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/-SQL-1B5E20?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/-HTML5-1B5E20?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/-CSS-1B5E20?style=for-the-badge&logo=css&logoColor=white" alt="CSS" /></td></tr>
 <tr><td width="190"><b>Editors & Tools</b></td><td><img src="https://img.shields.io/badge/-VS%20Code-1B5E20?style=for-the-badge" alt="VS Code" /> <img src="https://img.shields.io/badge/-Neovim-1B5E20?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" /> <img src="https://img.shields.io/badge/-Vim-1B5E20?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /> <img src="https://img.shields.io/badge/-tmux-1B5E20?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" /> <img src="https://img.shields.io/badge/-Git-1B5E20?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/-GitHub-1B5E20?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/-Obsidian-1B5E20?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" /></td></tr>
 </table>
+ 
 <div align="center">
 <br>
 <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,windows,python,bash,powershell,c,cpp,js,mysql,docker,kubernetes,terraform,ansible,azure,gcp,aws,git,github,vscode,vim,obsidian&perline=12" />
 </div>
+ 
 ---
  
 ## 🐞 Bug Bounty & Vulnerability Disclosure
@@ -190,20 +158,18 @@ Status    : Valid vulnerability reported on a fintech program
 <br><sub>🛰️ via NASA on GIPHY</sub>
 </td>
 <td width="50%" valign="top">
-**📡 Software-Defined Radio**
+<h3>📡 Software-Defined Radio</h3>
 RF fundamentals, telemetry analysis, signal processing and communication security.
- 
-**🔒 Embedded & Firmware**
+<h3>🔒 Embedded &amp; Firmware</h3>
 Firmware RE, microcontroller security, secure boot, low-level vulnerability research.
- 
-**🛰️ Space Systems**
-Satellite link security, ground station hardening and telemetry protection — mapped with the **SPARTA** framework.
- 
-`RTL-SDR` `GNU Radio` `SDR++` `GQRX`
- 
+<h3>🛰️ Space Systems</h3>
+Satellite link security, ground station hardening and telemetry protection — mapped with the <b>SPARTA</b> framework.
+<br><br>
+<code>RTL-SDR</code> <code>GNU Radio</code> <code>SDR++</code> <code>GQRX</code>
 </td>
 </tr>
 </table>
+ 
 ```text
 [ MISSION TARGET ]  ground station ──uplink──▶ 🛰️ satellite ──downlink──▶ telemetry
 [ THREATS        ]  jamming • spoofing • replay • command injection • firmware tampering
@@ -226,10 +192,12 @@ Satellite link security, ground station hardening and telemetry protection — m
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Leobatman/Leobatman/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 </div>
+ 
 ---
  
 <div align="center">
-> *"In cybersecurity, understanding the attack is essential to building effective defense."*
+ 
+<p><i>"In cybersecurity, understanding the attack is essential to building effective defense."</i></p>
  
 <img src="https://komarev.com/ghpvc/?username=Leobatman&color=B30000&style=flat-square&label=PROFILE+VIEWS" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B30000,100:000000&height=120&section=footer&reversal=true" width="100%" />
