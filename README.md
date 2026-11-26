@@ -145,7 +145,7 @@ Status    : Valid vulnerability reported on a fintech program
 <div align="center">
 <br>
 <a href="https://tryhackme.com/p/Cyberghost7">
-  <img src="assets/thm-badge.png" width="400" alt="TryHackMe Badge - Cyberghost7" />
+  <img src="https://cdn-images.tryhackme.com/public-profile/Cyberghost7/badge-dark-e31ab627d031.png" width="400" alt="Cyberghost7's TryHackMe badge" />
 </a>
 </div>
  
