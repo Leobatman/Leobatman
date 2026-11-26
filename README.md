@@ -142,7 +142,14 @@ Status    : Valid vulnerability reported on a fintech program
 | 🚩 | **CTF** — Web, Reverse, Pwn, Forensics, Crypto, OSINT |
 | 🧠 | **TryHackMe** & **Hack The Box** learning paths |
  
-
+<div align="center">
+<br>
+<a href="https://tryhackme.com/p/Cyberghost7">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Cyberghost7.png" alt="TryHackMe Badge - Cyberghost7" />
+</a>
+</div>
+ 
+ 
 ---
  
 ## 🛰️ Aerospace & Embedded Security
@@ -199,4 +206,5 @@ Satellite link security, ground station hardening and telemetry protection — m
 <img src="https://komarev.com/ghpvc/?username=Leobatman&color=B30000&style=flat-square&label=PROFILE+VIEWS" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B30000,100:000000&height=120&section=footer&reversal=true" width="100%" />
 </div>
+ 
  
